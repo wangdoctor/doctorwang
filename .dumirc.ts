@@ -5,7 +5,7 @@ const repo = 'doctorwang'; // 项目名
 export default defineConfig({
   title: 'Doctor',
   themeConfig:{
-    logo:'/logo.png',
+    logo:'logo.png',
     name:'Doctor',
   },
   base: process.env.NODE_ENV === 'production' ? `/${repo}/` : '/',
