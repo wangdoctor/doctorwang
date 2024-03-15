@@ -31,7 +31,7 @@ jobs:
       - name: Build Project
         run: |
           pnpm install
-          npm run build
+          pnpm run build
 
       # 部署到github
       - name: Deploy to Github
