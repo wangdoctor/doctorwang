@@ -3,7 +3,7 @@ import { defineConfig } from 'dumi';
 const repo = 'doctorwang'; // 项目名
 
 export default defineConfig({
-  title: 'doctor docs',
+  title: 'Doctor',
 
   base: process.env.NODE_ENV === 'production' ? `/${repo}/` : '/',
   publicPath: process.env.NODE_ENV === 'production' ? `/${repo}/` : '/',
