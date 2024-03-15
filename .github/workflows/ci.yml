@@ -22,9 +22,10 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 16.x
-      - name: install pnpm
-        run: |
-          npm install pnpm
+      - name: Set up pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          version: latest
 
       # 打包代码
       - name: Build Project
