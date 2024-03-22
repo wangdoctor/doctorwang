@@ -4,7 +4,7 @@ hero:
   description: doctor docs
   actions:
     - text: Hello
-      link: /
+      link: https://bf.jdd001.top
     - text: World
       link: /
 features:
