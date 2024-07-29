@@ -1,20 +1,20 @@
 ---
 hero:
-  title: Site
-  description: doctor docs
+  title: FW
+  description: 去中心化软件组织
   actions:
     - text: Hello
-      link: /
+      link: /a
     - text: World
       link: /
 features:
-  - title: Hello
-    emoji: 💎
+  - title: 透明
+    emoji: 🌟
     description: Put hello description here
-  - title: World
+  - title: 公平
     emoji: 🌈
     description: Put world description here
-  - title: '!'
+  - title: 连接
     emoji: 🚀
     description: Put ! description here
 ---
