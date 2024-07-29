@@ -1,4 +1,5 @@
 ---
+title: FW-去中心化组织
 hero:
   title: FW
   description: 去中心化软件组织
