@@ -2,22 +2,18 @@
 title: FW-去中心化组织
 hero:
   title: FW
-  description: 去中心化软件组织
+  description: 去中心化软件组织，致力于解决长期就业问题，解放天性，激发创造力
   actions:
-    - text: Hello
+    - text: 加入
       link: /a
-    - text: World
-      link: /
 features:
   - title: 透明
     emoji: 🌟
-    description: Put hello description here
+    description: 全新的商业模式，反对剩余价值剥削
   - title: 公平
     emoji: 🌈
-    description: Put world description here
+    description: 按劳分配，共享收益
   - title: 连接
     emoji: 🚀
-    description: Put ! description here
+    description: 打通需求方与开发者
 ---
-
-doctor
