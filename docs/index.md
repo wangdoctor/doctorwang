@@ -1,19 +1,9 @@
 ---
 title: FW-去中心化组织
 hero:
-  title: FW
-  description: 去中心化软件组织，致力于解决长期就业问题，解放天性，激发创造力，软件工程师最后的归宿，希望每位工程师都可以健康工作50年，人生无惧，冲
+  title: FlexUE
+  description: 凤栖前端框架（FlexUE Framework） 是一个面向交互模式设计和支持元数据的前端界面开发框架，是星河低代码平台的前端解决方案。
   actions:
-    - text: 申请加入22
-      link: /roadmap
-features:
-  - title: 透明
-    emoji: 🌟
-    description: 全新的商业模式，反对剩余价值剥削
-  - title: 公平
-    emoji: 🌈
-    description: 按劳分配，共享收益
-  - title: 连接
-    emoji: 🚀
-    description: 打通需求方与开发者
+    - text: 开始
+      link: /components
 ---
