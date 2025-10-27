@@ -4,7 +4,7 @@ hero:
   title: FW
   description: 去中心化软件组织，致力于解决长期就业问题，解放天性，激发创造力，软件工程师最后的归宿，希望每位工程师都可以健康工作50年，人生无惧，冲
   actions:
-    - text: 申请加入
+    - text: 申请加入22
       link: /roadmap
 features:
   - title: 透明
