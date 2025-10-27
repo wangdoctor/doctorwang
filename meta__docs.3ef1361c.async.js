@@ -1,9 +1,0 @@
-"use strict";(self.webpackChunkdoctor=self.webpackChunkdoctor||[]).push([[904],{82213:function(t,a,n){n.r(a),n.d(a,{demos:function(){return e}});var d=n(67294),e={}},74645:function(t,a,n){n.r(a),n.d(a,{demos:function(){return e}});var d=n(67294),e={}},11171:function(t,a,n){n.r(a),n.d(a,{demos:function(){return e}});var d=n(67294),e={}},77888:function(t,a,n){n.r(a),n.d(a,{texts:function(){return d}});const d=[]},43796:function(t,a,n){n.r(a),n.d(a,{texts:function(){return d}});const d=[{value:"\u7EC4\u4EF6\u7684\u4F7F\u7528\u793A\u4F8B\u6587\u6863\u3002",paraId:0,tocIndex:0},{value:"x-dataview \u4E0E x-event \u4E8B\u4EF6\u7ED1\u5B9A",paraId:1,tocIndex:1},{value:"\u884C\u6309\u94AE\u70B9\u51FB\u4E8B\u4EF6",paraId:2,tocIndex:1},{value:`<x-dataview
-    :row-actions="[
-        { key:'showlist',name:'\u9F50\u5957\u68C0\u67E5', icon:'el-svg-list'},
-    ]"
-    event-source="showlist-source"
-    ></x-dataview>
-
-<x-event type="dataview" action-key="showlist" source="showlist-source"></x-event>
-`,paraId:3,tocIndex:1},{value:"\u53C2\u6570\u540D",paraId:4,tocIndex:2},{value:"\u7C7B\u578B",paraId:4,tocIndex:2},{value:"\u5FC5\u9009",paraId:4,tocIndex:2},{value:"\u9ED8\u8BA4\u503C",paraId:4,tocIndex:2},{value:"\u8BF4\u660E",paraId:4,tocIndex:2},{value:"id",paraId:4,tocIndex:2},{value:"string",paraId:4,tocIndex:2},{value:"\u2713",paraId:4,tocIndex:2},{value:"\u2014",paraId:4,tocIndex:2},{value:"\u552F\u4E00\u6807\u8BC6\u7B26",paraId:4,tocIndex:2},{value:"name",paraId:4,tocIndex:2},{value:"string",paraId:4,tocIndex:2},{value:"''",paraId:4,tocIndex:2},{value:"\u540D\u79F0",paraId:4,tocIndex:2},{value:"age",paraId:4,tocIndex:2},{value:"number",paraId:4,tocIndex:2},{value:"0",paraId:4,tocIndex:2},{value:"\u5E74\u9F84",paraId:4,tocIndex:2}]},51446:function(t,a,n){n.r(a),n.d(a,{texts:function(){return d}});const d=[]}}]);
