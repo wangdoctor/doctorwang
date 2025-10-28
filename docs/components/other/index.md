@@ -1,3 +1,9 @@
+---
+order: 100
+title: 服务器配置
+toc: content
+---
+
 ## java的安装
 cd /usr/local
 tar -zxvf /root/jdk-17_linux-x64_bin.tar.gz
