@@ -68,7 +68,7 @@ certbot --nginx -d example.com -d `,paraId:27,tocIndex:2},{value:"www.example.co
   dataview = 'dataview',
 }
 `,paraId:9,tocIndex:4},{value:"DataviewEventTypes",paraId:10,tocIndex:5},{value:" \u662F\u4E00\u4E2A ",paraId:10,tocIndex:5},{value:"\u6570\u636E\u96C6\u4E8B\u4EF6\u7C7B\u578B\u679A\u4E3E",paraId:10,tocIndex:5},{value:"\uFF0C\u7528\u4E8E ",paraId:10,tocIndex:5},{value:"x-event",paraId:10,tocIndex:5},{value:" \u7684 ",paraId:10,tocIndex:5},{value:"path",paraId:10,tocIndex:5},{value:" \u5C5E\u6027\u3002",paraId:10,tocIndex:5},{value:`
-\u5B83\u5B9A\u4E49\u4E86\u6570\u636E\u89C6\u56FE\uFF08DataView\uFF09\u4E2D\u5404\u79CD\u4E0E\u6570\u636E\u72B6\u6001\u3001\u4EA4\u4E92\u884C\u4E3A\u76F8\u5173\u7684\u4E8B\u4EF6\u7C7B\u578B\u3002`,paraId:10,tocIndex:5},{value:`export enum DataviewEventTypes {
+\u5B83\u5B9A\u4E49\u4E86\u6570\u636E\u89C6\u56FE\uFF08DataView\uFF09\u4E2D\u5404\u79CD\u4E0E\u6570\u636E\u72B6\u6001\u3001\u4EA4\u4E92\u884C\u4E3A\u76F8\u5173\u7684\u4E8B\u4EF6\u7C7B\u578B!`,paraId:10,tocIndex:5},{value:`export enum DataviewEventTypes {
   /** \u6570\u636E\u96C6\u901A\u7528\u64CD\u4F5C\u4E8B\u4EF6 */
   datasetAction = 'datasetAction',
 
